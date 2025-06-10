@@ -6,7 +6,7 @@
 ## Study
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wooim)](https://solved.ac/wooim)
 <br>
-### [알고리즘 스터디](https://github.com/nvmith/November)
+### [✏알고리즘 스터디](https://github.com/nvmith/November)
 <br><br>
 
 ## 🛠 Skills I've used
