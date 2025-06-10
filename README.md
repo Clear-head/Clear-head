@@ -1,10 +1,11 @@
-# About ME
+# 🖐 About ME
 
 ## Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clear-head&layout=compact)
 
 ## Beakjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wooim)](https://solved.ac/wooim)
+
 ## 🛠 Skills I've used
 ### 💻 Programming Languages & Core Tools
 <p align="left">
@@ -26,7 +27,7 @@
 
 
 ### 🗄 DataBase
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
@@ -56,3 +57,9 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
+
+### 📞 Contact
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:test@test.com)
+<img src="https://img.shields.io/badge/tistory-E74C3C?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+
+
