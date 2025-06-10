@@ -2,9 +2,12 @@
 
 ## Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clear-head&layout=compact)
-
-## Beakjoon
+<br><br>
+## Study
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wooim)](https://solved.ac/wooim)
+<br>
+### [알고리즘 스터디](https://github.com/nvmith/November)
+<br><br>
 
 ## 🛠 Skills I've used
 ### 💻 Programming Languages & Core Tools
