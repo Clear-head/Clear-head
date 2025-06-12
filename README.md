@@ -62,6 +62,7 @@
 </p>
 
 ### 📞 Contact
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:huni032285@gmail.com)
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD" 
+  onclick="copyText('huni032285@gmail.com')" style="cursor:pointer;">
 <a href="https://problems.tistory.com/"><img src="https://img.shields.io/badge/tistory-E74C3C?style=for-the-badge&logo=tistory&logoColor=white&link=https://problems.tistory.com/"/></a> 
 
