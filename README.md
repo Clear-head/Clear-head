@@ -1,7 +1,8 @@
-# 🖐 About ME
-
-## Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clear-head&layout=compact)
+## About Me
+- **사석훈** (2000.03.2) - Backend Engineer
+- **Hanshin University** (2023.03 - 2025.02), Major in **Computer Engineering**
+- **LG U+ Why Not SW Camp** (2025.05 - 2025.11)
+---
 <br><br>
 ## Study
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wooim)](https://solved.ac/wooim)
@@ -31,12 +32,15 @@
 
 ### 🗄 DataBase
 <p align="left">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
 ### 🌐 Frontend  
 <p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
@@ -45,12 +49,13 @@
 
 ### ⚙️ Backend  
 <p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 ### ☁️ Tools & Platforms  
 <p align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425" />
