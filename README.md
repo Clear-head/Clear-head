@@ -1,7 +1,6 @@
 ## About Me
-- **사석훈** (2000.03.2) - Backend Engineer
-- **Hanshin University** (2023.03 - 2025.02), Major in **Computer Engineering**
-- **LG U+ Why Not SW Camp** (2025.05 - 2025.11)
+- **사석훈** (2000.03.22)
+- **한신대학교** (2023.03 - 2025.02), **컴퓨터공학** 전공
 ---
 <br><br>
 ## Study
